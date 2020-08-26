@@ -1,2 +1,2 @@
-# Course-Api_QuickstartwithJPA
+# Course-Api_Rest_API
  
